@@ -1,3 +1,7 @@
+Dieser CRSF-Switch basiert auf der Arbeit vom RC Modellbauer und reagiert NUR auf ELRS V4 mit dem vorgestellten LUA Script von Wilhelm Meier.
+Eine SBUS Implementierung war für mein Projekt nicht notwendig.
+
+
 # ESP32-SBUS-Switch für RC Models
 
 ESP32-SBUS-Switch das Projekt stammt von Voodoo-68 auf www.rc-network.de
